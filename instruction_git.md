@@ -151,5 +151,9 @@ Git работает только с записанными на диск фай
 
     ![text]( name images.extension)
 
+## Форматирование текста в Markdown
+
+![Люблю Markdown](md.png)
+
 
 
